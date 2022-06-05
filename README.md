@@ -8,7 +8,9 @@ maid (Pronounced maid, all lowercase) is a text editor with simple commands such
 
 Why "MID"?
 Well, it can't backspace nor delete without clearing or deleting everything!
+
 **Why?**
+
 When I said "All modules are built-in", there is no way I can detect a keypress without **keyboard** or these stuff.
 So instead I added these commands just like _vim_.
 
