@@ -16,6 +16,3 @@ The script can display and write text in real time because instead of opening th
 
 You can't see the file update until you press enter because of python input thing.
 
-## Other Stuff
-
-There is a installer if you are on a Linux system that installs it to your /bin so you can run it directly from the terminal.
