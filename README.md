@@ -1,5 +1,6 @@
 # maid
-maid - A really simple and MID text editor made with python
+maid - A really simple and MID text editor made with python.
+
 All modules used are built-in so you don't have to download anything with pip
 
 ## How does it works
