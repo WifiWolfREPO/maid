@@ -4,6 +4,7 @@ All modules used are built-in so you don't have to download anything with pip
 
 ## How does it works
 maid (Pronounced maid, all lowercase) is a text editor with simple commands such as :\clr (clear the file) or :\del (delete file).
+
 Why "MID"?
 Well, it can't backspace nor delete without clearing or deleting everything!
 **Why?**
